@@ -1,0 +1,97 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+body{
+background: #EFE9DD;
+}
+
+.cuerpo{
+	
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	top:50%;
+	margin-left: -250px;
+	margin-top: -150px;
+	/*Para centrar*/
+}
+.div-login{
+	
+	width: 400px;
+	text-align: center;
+	padding:10px;
+	font-family: sans-serif;
+	background: white;
+}
+.button{
+	height: 25px;
+	width: 100px; 
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	border: none;
+	cursor: pointer;
+}
+.button:hover{
+ background: rgba(0,0,0,0);
+ color: #3a7999;
+ box-shadow: inset 0 0 0 3px #3a7999;
+
+}
+.txtcajas{
+	height: 18px;
+	font-family: sans-serif;
+}
+.txtletras{
+	font-family: sans-serif;
+}
+.cuerpo-inicio{
+	width: 500px;
+	height: 390px;
+	margin:0 auto;
+	border: inset 4px;
+	position: absolute;
+	left: 50%;
+	top:50%;
+	margin-left: -250px;
+	margin-top: -195px;
+	background: white;
+
+}
+.registro-inicio{
+	text-align: center;
+	font-family: sans-serif;
+	padding: 8px;
+	border: none;
+}
+div label{
+	font-size: 19px;
+}
+.button2{
+	height: 30px;
+	width: 160px; 
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	border: none;
+}
+.button2:hover{
+ background: rgba(0,0,0,0);
+ color: #3a7999;
+ box-shadow: inset 0 0 0 3px #3a7999;
+ cursor: pointer;
+
+}
+.txt-caja-inicio{
+	border: none;
+	height: 20px;
+	border: solid aquamarine 0.5px;
+	width: 250px;
+
+}
+.titulo-inicio{
+	font-family: sans-serif;
+	font-size: 30px;
+}
